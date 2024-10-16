@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {}
+    "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {}
   },
   "projects": {
-    "c:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {
+    "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
         "projectName": "program002a-soucet-cifer",
-        "projectPath": "c:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+        "projectPath": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
         "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "c:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\github-ah-is-2024-sk1\\Is-Projekty\\program002a-soucet-cifer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
