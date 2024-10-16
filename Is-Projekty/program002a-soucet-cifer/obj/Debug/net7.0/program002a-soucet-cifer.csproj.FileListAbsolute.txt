@@ -1,0 +1,14 @@
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\bin\Debug\net7.0\program002a-soucet-cifer.exe
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\bin\Debug\net7.0\program002a-soucet-cifer.deps.json
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\bin\Debug\net7.0\program002a-soucet-cifer.runtimeconfig.json
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\bin\Debug\net7.0\program002a-soucet-cifer.dll
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\bin\Debug\net7.0\program002a-soucet-cifer.pdb
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\program002a-soucet-cifer.AssemblyInfoInputs.cache
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\program002a-soucet-cifer.AssemblyInfo.cs
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\program002a-soucet-cifer.dll
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\refint\program002a-soucet-cifer.dll
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\program002a-soucet-cifer.pdb
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\program002a-soucet-cifer.genruntimeconfig.cache
+c:\aaa\IS-2024\github-ah-is-2024-sk1\github-ah-is-2024-sk1\Is-Projekty\program002a-soucet-cifer\obj\Debug\net7.0\ref\program002a-soucet-cifer.dll
