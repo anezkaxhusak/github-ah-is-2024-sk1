@@ -9,7 +9,7 @@ class Program {
 
 Console.Clear();
 Console.WriteLine("***************************");
-Console.WriteLine("**** Výpis řady čísel *****");
+Console.WriteLine("**** Generátor pseudonáhodných čísel *****");
 Console.WriteLine("***************************");
 Console.WriteLine("***** Anežka Husáková *****");
 Console.WriteLine("***************************");
