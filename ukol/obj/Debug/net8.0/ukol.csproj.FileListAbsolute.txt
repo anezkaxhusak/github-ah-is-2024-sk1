@@ -1,0 +1,15 @@
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ukol.AssemblyInfoInputs.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ukol.AssemblyInfo.cs
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ukol.csproj.CoreCompileInputs.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ukol.sourcelink.json
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\bin\Debug\net8.0\ukol.exe
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\bin\Debug\net8.0\ukol.deps.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\bin\Debug\net8.0\ukol.runtimeconfig.json
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\bin\Debug\net8.0\ukol.dll
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\bin\Debug\net8.0\ukol.pdb
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ukol.dll
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\refint\ukol.dll
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ukol.pdb
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ukol.genruntimeconfig.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\ukol\obj\Debug\net8.0\ref\ukol.dll
