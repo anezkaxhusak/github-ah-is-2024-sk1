@@ -1,0 +1,15 @@
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\bin\Debug\net8.0\dukol2.exe
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\bin\Debug\net8.0\dukol2.deps.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\bin\Debug\net8.0\dukol2.runtimeconfig.json
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\bin\Debug\net8.0\dukol2.dll
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\bin\Debug\net8.0\dukol2.pdb
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\dukol2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\dukol2.AssemblyInfoInputs.cache
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\dukol2.AssemblyInfo.cs
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\dukol2.csproj.CoreCompileInputs.cache
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\dukol2.sourcelink.json
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\dukol2.dll
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\refint\dukol2.dll
+c:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\dukol2.pdb
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\dukol2.genruntimeconfig.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-projekty\dukol2\obj\Debug\net8.0\ref\dukol2.dll
