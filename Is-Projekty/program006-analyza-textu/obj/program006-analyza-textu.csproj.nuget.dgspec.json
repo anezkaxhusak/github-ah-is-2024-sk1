@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\ukol005_max_min\\ukol005_max_min.csproj": {}
+    "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\program006-analyza-textu\\program006-analyza-textu.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\ukol005_max_min\\ukol005_max_min.csproj": {
+    "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\program006-analyza-textu\\program006-analyza-textu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\ukol005_max_min\\ukol005_max_min.csproj",
-        "projectName": "ukol005_max_min",
-        "projectPath": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\ukol005_max_min\\ukol005_max_min.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\program006-analyza-textu\\program006-analyza-textu.csproj",
+        "projectName": "program006-analyza-textu",
+        "projectPath": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\program006-analyza-textu\\program006-analyza-textu.csproj",
         "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\ukol005_max_min\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\program006-analyza-textu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"

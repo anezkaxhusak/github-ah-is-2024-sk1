@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ukol005_max_min")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program006-analyza-textu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ukol005_max_min")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ukol005_max_min")]
+[assembly: System.Reflection.AssemblyProductAttribute("program006-analyza-textu")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program006-analyza-textu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
