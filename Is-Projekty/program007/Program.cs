@@ -1,4 +1,7 @@
-﻿start again = "a";
+﻿using System.Security.Authentication.ExtendedProtection;
+using System.Diagnostics;
+
+string again = "a";
 
 while(again=="a"){
 
@@ -44,21 +47,39 @@ for(int i=0; i<n; i++){
 myArray[i] = randomNumber.Next(dm, hm);
 Console.Write("{0}; ", myArray[i]);
 }
+Stopwatch myStopwatch = new Stopwatch();
 
+int myCompare = 0;
+int myChange = 0;
+
+
+myStopwatch.Start();
 for(int i = 0; int < n-1; int++) {
     for(int j = 0; j < n-i-1 ; j++) {
+        for(int myCompare++);
         if(myArray[j] > myArray[j+1]){
             int tmp = myArray [j+1];
             myArray [j+1] = myArray [j];
             myArray[j] = tmp;
+            myChange++;
         }
     }
 }
 
+myStopwatch-Stop();
 Console.WriteLine("\n\n\nSeřazené pole");
 for(int i=0; i<n; i++){
 Console.Write("{0}; ", myArray[i]);
 }
+
+Console.ForegroundColor = ConsoleColor.Red;
+Console.BackgroundColor = ConsoleColor.White;
+Console.WriteLine("Čas potřebný na seřazení pole pomocí algoritmu Bubble sort: {0}", myStopwatch.Elapsed);
+
+Console.WriteLine("\n\nPočet porovníní: {0}", myCompare);
+Console.WriteLine("\nPočet výměn: {0}", myChange);
+
+Console.ResetColor();
 Console.WriteLine();
 Console.WriteLine("Pro opakování programu stiskněte klávesu A");
 again = Console.ReadLine();
