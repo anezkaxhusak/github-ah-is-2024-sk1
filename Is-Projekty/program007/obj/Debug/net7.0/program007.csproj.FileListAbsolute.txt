@@ -1,0 +1,4 @@
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\program007\obj\Debug\net7.0\program007.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\program007\obj\Debug\net7.0\program007.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\program007\obj\Debug\net7.0\program007.AssemblyInfo.cs
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\program007\obj\Debug\net7.0\program007.csproj.CoreCompileInputs.cache
