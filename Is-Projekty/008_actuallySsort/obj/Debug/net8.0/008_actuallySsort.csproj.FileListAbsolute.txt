@@ -1,0 +1,15 @@
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\bin\Debug\net8.0\008_actuallySsort.exe
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\bin\Debug\net8.0\008_actuallySsort.deps.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\bin\Debug\net8.0\008_actuallySsort.runtimeconfig.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\bin\Debug\net8.0\008_actuallySsort.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\bin\Debug\net8.0\008_actuallySsort.pdb
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\008_actuallySsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\008_actuallySsort.AssemblyInfoInputs.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\008_actuallySsort.AssemblyInfo.cs
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\008_actuallySsort.csproj.CoreCompileInputs.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\008_actuallySsort.sourcelink.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\008_actuallySsort.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\refint\008_actuallySsort.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\008_actuallySsort.pdb
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\008_actuallySsort.genruntimeconfig.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_actuallySsort\obj\Debug\net8.0\ref\008_actuallySsort.dll
