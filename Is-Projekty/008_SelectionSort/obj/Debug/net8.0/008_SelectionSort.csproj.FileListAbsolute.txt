@@ -1,0 +1,15 @@
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\bin\Debug\net8.0\008_SelectionSort.exe
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\bin\Debug\net8.0\008_SelectionSort.deps.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\bin\Debug\net8.0\008_SelectionSort.runtimeconfig.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\bin\Debug\net8.0\008_SelectionSort.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\bin\Debug\net8.0\008_SelectionSort.pdb
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\008_SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\008_SelectionSort.AssemblyInfoInputs.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\008_SelectionSort.AssemblyInfo.cs
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\008_SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\008_SelectionSort.sourcelink.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\008_SelectionSort.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\refint\008_SelectionSort.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\008_SelectionSort.pdb
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\008_SelectionSort.genruntimeconfig.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\008_SelectionSort\obj\Debug\net8.0\ref\008_SelectionSort.dll

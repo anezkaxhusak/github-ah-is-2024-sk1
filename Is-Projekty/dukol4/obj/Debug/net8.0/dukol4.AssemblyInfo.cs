@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dukol4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f1efe850a4b955915394cd937c7e2b0b633e243")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f94bf0f7213ee9eea1ab5f17a10423e5e06148")]
 [assembly: System.Reflection.AssemblyProductAttribute("dukol4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dukol4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
