@@ -1,0 +1,14 @@
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\011.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\011.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\011.AssemblyInfo.cs
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\011.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\bin\Debug\net7.0\011.exe
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\bin\Debug\net7.0\011.deps.json
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\bin\Debug\net7.0\011.runtimeconfig.json
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\bin\Debug\net7.0\011.dll
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\bin\Debug\net7.0\011.pdb
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\011.dll
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\refint\011.dll
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\011.pdb
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\011.genruntimeconfig.cache
+C:\aaa\IS-2024\github-ah-is-2024-sk1\Is-Projekty\011\obj\Debug\net7.0\ref\011.dll
