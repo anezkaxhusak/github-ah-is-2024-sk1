@@ -1,0 +1,15 @@
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\bin\Debug\net8.0\00001.exe
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\bin\Debug\net8.0\00001.deps.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\bin\Debug\net8.0\00001.runtimeconfig.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\bin\Debug\net8.0\00001.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\bin\Debug\net8.0\00001.pdb
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\00001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\00001.AssemblyInfoInputs.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\00001.AssemblyInfo.cs
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\00001.csproj.CoreCompileInputs.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\00001.sourcelink.json
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\00001.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\refint\00001.dll
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\00001.pdb
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\00001.genruntimeconfig.cache
+C:\Users\Anežka\Documents\idk\github-ah-is-2024-sk1\Is-Projekty\00001\obj\Debug\net8.0\ref\00001.dll
