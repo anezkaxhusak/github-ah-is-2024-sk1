@@ -56,4 +56,4 @@ string again = "a";
         Console.WriteLine($"\nNSN čísel {a} a {b} je {nsn}");
         Console.ForegroundColor= ConsoleColor.White;
     }
-    
+     
