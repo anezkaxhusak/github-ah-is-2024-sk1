@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("008_shakersort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1769a4e21b39cfa0e8252415967d63cd04f2555")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f335a1ab751fcb4eb36aafed30fa61d196622026")]
 [assembly: System.Reflection.AssemblyProductAttribute("008_shakersort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("008_shakersort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
