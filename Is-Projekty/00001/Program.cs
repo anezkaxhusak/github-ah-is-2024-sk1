@@ -1,11 +1,58 @@
-﻿using System.Security.Authentication.ExtendedProtection;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Security.Authentication.ExtendedProtection;
 using System.Security.Cryptography;
 using Microsoft.VisualBasic;
+
+
+class Program
+
+    // Shaker Sort Implementation
+    {
+    static void ShakerSort(int[] arr)
+    {
+        int left = 0;
+        int right = arr.Length - 1;
+        int temp;
+
+        while (left <= right)
+        {
+            // Move largest element to the right end
+            for (int i = left; i < right; i++)
+            {
+                if (arr[i] > arr[i + 1])
+                {
+                    temp = arr[i];
+                    arr[i] = arr[i + 1];
+                    arr[i + 1] = temp;
+                }
+            }
+
+            // Decrease the right boundary since the largest element is in place
+            right--;
+
+            // Move smallest element to the left end
+            for (int i = right; i > left; i--)
+            {
+                if (arr[i] < arr[i - 1])
+                {
+                    temp = arr[i];
+                    arr[i] = arr[i - 1];
+                    arr[i - 1] = temp;
+                }
+            }
+
+            // Increase the left boundary since the smallest element is in place
+            left++;
+        }
+    }
+
+    static void Main()
+    {
 
 string again = "a";
         
         while(again == "a") {
-            Console.Clear();
+         //   Console.Clear();
             Console.WriteLine("*******************************************");
             Console.WriteLine("***** Generátor pseudonáhodných čísel *****");
             Console.WriteLine("*******************************************");
@@ -70,15 +117,37 @@ string again = "a";
 
 
             }
+            
+            
 
-            Console.WriteLine("\n\n Maximum = {0}. Jeho pozice v poli = {1}", max, poziceMax );
+            Console.WriteLine("\n\nMaximum = {0}. Jeho pozice v poli = {1}", max, poziceMax );
             Console.WriteLine("Minimum = {0}. Jeho pozice v poli = {1}",min, poziceMin);
+
+
+
+              ShakerSort(myArray);
+
+            // Output the sorted array
+            Console.WriteLine("\nSeřazená čísla:");
+            foreach (var num in myArray)
+            {
+                Console.Write(num + "; ");
+            }
+            Console.WriteLine("\n\nLength: {0}", hm);
+
+        // Output the results
+
+            }
+
 
             Console.WriteLine();   
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu A");
             Console.ReadLine();
+        }
+                }
+            }
+        }
 
-        }
-        }
-        }
+
+
