@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dXZX7SqrVZw=",
+  "dgSpecHash": "DFZqnlU5VT0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anežka\\Documents\\idk\\github-ah-is-2024-sk1\\Is-Projekty\\008_Shellsort\\008_Shellsort.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\aaa\\IS-2024\\github-ah-is-2024-sk1\\Is-Projekty\\008_Shellsort\\008_Shellsort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uzivatel\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Uzivatel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Uzivatel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Uzivatel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
