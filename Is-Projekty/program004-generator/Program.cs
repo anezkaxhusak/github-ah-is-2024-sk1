@@ -1,4 +1,4 @@
-﻿start again = "a";
+﻿string again = "a";
 
 while(again=="a"){
 
